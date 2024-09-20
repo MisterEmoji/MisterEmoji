@@ -1,2 +1,1 @@
-# aboutMe
-About me page
+## MisterEmoji, Polish (beginning) software developer ##
